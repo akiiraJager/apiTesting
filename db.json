@@ -1,9 +1,6 @@
 {
   "institututions": {
-    "regularInstitutionCodes": [
-      190978974,
-      190007682
-    ],
+    "regularInstitutionCodes": [],
     "specialInstitutionCode": 191722433                           
   }
 }
